@@ -298,7 +298,7 @@ The specific performance metrics are as follows:
 
 Thanks to Fotokite for the initial development of the project code and simulator.
 
-## My Code Logic :-##
+## My Code Logic :- ##
 # Controls
 ### Intro (scenario 1) ###
 
